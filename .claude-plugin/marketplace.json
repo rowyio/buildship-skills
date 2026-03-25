@@ -1,0 +1,28 @@
+{
+  "name": "buildship-agent-skills",
+  "description": "buildship agent skills",
+  "owner": {
+    "name": "shams-mosowi",
+    "email": "shams@buildship.com"
+  },
+  "metadata": {
+    "version": "1.0.0",
+    "description": "Claude Code marketplace of agent skills by buildship"
+  },
+  "plugins": [
+    {
+      "name": "buildship-agent-skills",
+      "description": "buildship agent skills",
+      "version": "1.0.0",
+      "author": {
+        "name": "shams-mosowi",
+        "email": "shams@buildship.com"
+      },
+      "source": "./",
+      "homepage": "https://example.com",
+      "repository": "https://github.com/buildship/agent-skills",
+      "license": "MIT",
+      "keywords": ["ai","agent","skill"]
+    }
+  ]
+}
